@@ -1,0 +1,24 @@
+{
+  "name": "ipsmth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongkeytreez/not-an-ip-grabber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wongkeytreez/not-an-ip-grabber/issues"
+  },
+  "homepage": "https://github.com/wongkeytreez/not-an-ip-grabber#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "request": "^2.88.2"
+  }
+}
